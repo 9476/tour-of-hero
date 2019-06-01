@@ -1,0 +1,53 @@
+/* HeroDetailComponent's private CSS styles */
+.card{
+  margin: 10px;
+}
+h2{
+  text-align: center;
+}
+
+label {
+  display: inline-block;
+  width: 3em;
+  margin: .5em 0;
+  color: #607D8B;
+  font-weight: bold;
+}
+input {
+  height: 2em;
+  font-size: 1em;
+  padding-left: .4em;
+}
+button {
+  margin-top: 20px;
+  font-family: Arial;
+  background-color: #eee;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  cursor: hand;
+  position: absoulte;
+  left: 20px;
+  width:120px;
+}
+button:hover {
+  background-color: #cfd8dc;
+  border: 1.5px solid rgb(214, 16, 132);
+}
+button:disabled {
+  background-color: #eee;
+  color: #ccc;
+  cursor: auto;
+}
+
+/* .CardSjm{
+  height: 120px;
+  width: 150px;
+  position: relative;
+  left: 100px;
+}
+
+img{
+  margin: 20px;
+} */

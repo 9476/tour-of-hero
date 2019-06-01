@@ -1,0 +1,14 @@
+import { Hero } from './hero';
+
+export const HEROES: Hero[] = [
+  { id: 11, name: 'Mr. Nice', photo: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559386965881&di=fe43c9990e917d9f898fe3a9eec6ff72&imgtype=0&src=http%3A%2F%2Fi3.17173.itc.cn%2F2014%2Flol%2F2014%2F07%2F26%2Fnewdawn_07.gif" },
+  { id: 12, name: 'Narco', photo: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559386918761&di=281ddac2a6f4e3870a7b7ee874640d86&imgtype=0&src=http%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FPtRzxtMwUnv9jpEoTJJRjicRQohosYAlpT5qftQ07d4P9R7o6YDicaWVm0Pk5k1hkkDMAx6y8SPfMYy93aGicuq8Q%2F640%3Fwx_fmt%3Dgif" },
+  { id: 13, name: 'Bombasto', photo: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559386809559&di=592e248d039e03d0bd9ec2a046765302&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20170916%2F8d489fe0b5324e10aa8ff8c5e0f6e296.gif" },
+  { id: 14, name: 'Celeritas', photo: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559386750741&di=1a448a938297a3450b6bf553bb8e2ef0&imgtype=0&src=http%3A%2F%2Fpic2.52pk.com%2Ffiles%2F110816%2F258480_110348_1.gif" },
+  { id: 15, name: 'Magneta', photo: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559386426537&di=4b40efe3a9783f8da1f50f0a7b721254&imgtype=0&src=http%3A%2F%2Fztd00.photos.bdimg.com%2Fztd%2Fw%3D700%3Bq%3D50%2Fsign%3D7944b30c0e082838680dde1488a2d83c%2Ff2deb48f8c5494eeae24170a24f5e0fe99257e9a.jpg" },
+  { id: 16, name: 'RubberMan', photo: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559386386461&di=461b4ef97ba0eb8496002f2c842d6c9d&imgtype=0&src=http%3A%2F%2Fwork.361ser.com%2FContent%2Fueditor%2Fnet%2Fupload%2Fimage%2F20170615%2F6363314180405944943487876.gif" },
+  { id: 17, name: 'Dynama', photo: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559386335470&di=e6052dc1ffc70d9ec1f8cd80945e435b&imgtype=0&src=http%3A%2F%2Fi.17173cdn.com%2F2fhnvk%2FYWxqaGBf%2Fcms3%2FMGygdxblADDhBBC.gif" },
+  { id: 18, name: 'Dr IQ', photo: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559386282534&di=87d1547751477b802636cb6aafc55d98&imgtype=0&src=http%3A%2F%2Fimgup01.zb8.com%2Fzb8%2F2018-03%2F28%2F13%2F15222156277506_17.jpg" },
+  { id: 19, name: 'Magma', photo: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559386135501&di=c1d2ba75968986e75e2473d085f93b8e&imgtype=0&src=http%3A%2F%2Fimg.tuwandata.com%2Fv2%2Fthumb%2Fall%2FNjEyMiw2MDAsMTAwLDQsMywxLC0xLDEsLCw5MA%3D%3D%2Fu%2Fwww.tuwan.com%2Fuploads%2Fallimg%2F1609%2F01%2F13135352A-9.gif" },
+  { id: 20, name: 'Tornado', photo: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559386045032&di=21c6158f7ef9118576d72112c740a5eb&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170323%2Fcd22183cefe04852b8688035e207c1e2_th.gif" }
+];
